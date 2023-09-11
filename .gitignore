@@ -20,3 +20,9 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#Node modulew
+/node_modules
+#exemple
+exemplo.txt
+#função em desenvolvimento
+shop.txt
