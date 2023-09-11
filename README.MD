@@ -7,13 +7,20 @@
 Projeto de [teste de software automático](https://github.com/ancgci/Cypress-diretoaoponto) para fins educacionais em pratica da formação para Analista de Testes de Software. 
 Este é um projeto de testes automatizados utilizando Cypress e Cucumber para testar a funcionalidade de login com sucesso de uma aplicação web.
 
+## Site Testado
+
+´´https://www.saucedemo.com/´´
+
+## Função Testada 
+
+- Login
+
 ## Tecnologias utilizadas
 
 - Cypress
 - Node
 - JavaScript
 - Cucumber
-- 
 
 ## Pré-requisitos
 
@@ -68,6 +75,11 @@ Scenario: Login com sucesso
 ![3](https://github.com/ancgci/cypress-cucumber/blob/main/imagens/3.png)
 ![4](https://github.com/ancgci/cypress-cucumber/blob/main/imagens/4.png)
 
+## Contribuindo
+
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um Pull Request ou reportar problemas na seção de Issues.
+
+
 ## License
 
-MIT
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
