@@ -82,4 +82,4 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um 
 
 ## License
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+Este projeto é distribuído sob a licença MIT.
