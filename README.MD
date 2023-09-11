@@ -1,5 +1,6 @@
 # Projeto de Testes com Cypress e Cucumber
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20Em%20desenvolvimento&color=GREEN&style=for-the-badge)
 
 ## _Teste Automático e2e
 
