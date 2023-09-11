@@ -33,7 +33,7 @@ Antes de rodar os testes, certifique-se de que você tenha o seguinte instalado:
 
 1. Clone o repositório: 
 
-- git clone https://github.com/seu-usuario/nome-do-repositorio.git
+- git clone https://github.com/ancgci/cypress-cucumber.git
 
 
 2. Navegue até a pasta do projeto:
