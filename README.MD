@@ -54,16 +54,17 @@ Este comando irá iniciar o Cypress e executar os cenários de teste definidos n
 
 ## Como os Testes foram Organizados
 
-Os testes foram organizados usando o formato Gherkin do Cucumber, que permite escrever cenários de teste de forma legível para não técnicos. Os arquivos `.feature` estão localizados em `cypress/integration`.
+Os testes foram organizados usando o formato Gherkin do Cucumber, que permite escrever cenários de teste de forma legível para não técnicos. Os arquivos `.feature` estão localizados em `cypress/e2e` e o step login dentro de cypress/integration.
 
 ### Exemplo de Cenário:
 
 ```gherkin
 Feature: Login
 
-Scenario: Login com sucesso
+  Scenario: Login com sucesso
     Given o usuário está na página de login
     When o usuário preenche o login e a senha corretamente
+    When clico no botão de login
     Then o usuário é redirecionado para a página de assinantes
 
 ```
