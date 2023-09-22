@@ -4,7 +4,7 @@
 
 ## _Teste Automático e2e
 
-Projeto de [teste de software automático](https://github.com/ancgci/Cypress-diretoaoponto) para fins educacionais em pratica da formação para Analista de Testes de Software. 
+Projeto de [teste de software automático](https://github.com/ancgci/cypress-cucumber) para fins educacionais em pratica da formação para Analista de Testes de Software. 
 Este é um projeto de testes automatizados utilizando Cypress e Cucumber para testar a funcionalidade de login com sucesso de uma aplicação web.
 
 ## Site Testado
